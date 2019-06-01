@@ -1,6 +1,6 @@
 This repository contains resources used for mDevCamp 2019 Flutter workshop by Showmax mobile team.
 
-# Thank you
+# Thank you! 👏
 
 Thank you all for attending workshop. Hope you enjoyed!
 
