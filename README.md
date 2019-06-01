@@ -9,4 +9,3 @@ Here are some tips and tricks that you mentioned on workshop:
 - Consider cancel of Stream when done
    - https://stackoverflow.com/questions/49879438/dart-do-i-have-to-cancel-stream-subscriptions-and-close-streamsinks
    - https://medium.com/@ayushpguptaapg/using-streams-in-flutter-62fed41662e4
-- 
