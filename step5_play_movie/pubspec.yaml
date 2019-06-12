@@ -29,7 +29,7 @@ dependencies:
   # custom modified chewie
 #  chewie:
 #    git:
-#      url: git://github.com/brozikcz/chewie
+#      url: git://github.com/Showmax/flutter-workshop-chewie
 #      ref: version
   
 dev_dependencies:
